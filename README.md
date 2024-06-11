@@ -13,3 +13,12 @@ Run cmd:
 ```
 
 View ppm on : https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
+or if you have gnome then
+```sh
+loupe image.ppm
+```
+
+output:
+![output](./Output.png)
+
+render time: ~ 1 hour
